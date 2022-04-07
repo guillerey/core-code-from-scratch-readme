@@ -52,8 +52,7 @@ Matrix Binary DOB
 
 
 MISP
------
-
+------
 
 .data
 	      number1: .asciiz "\nIngrese el primer numero: "
@@ -84,19 +83,17 @@ MISP
               move $a0, $t0
               syscall
 
-              li $t1, 0
-              li $v0, 100
- 
-              add $t1, $a0, $t1
+             main:
+              li $t1, 
+              li $v0, 
+
+              add $t2, $t0, $t1
 
               li $v0, 4
               la $a0 result_message
               syscall
 
               li $v0, 1
-              move $a0, $t0
+              move $a0, $t2
               syscall
-
-
-
 
