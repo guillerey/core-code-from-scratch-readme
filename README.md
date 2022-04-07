@@ -34,3 +34,69 @@ Currency * ExchangeRate
 Result <-- ConversionRate
 PRINT Result
 END
+
+
+Week challenges (Wednesday)
+----------------------------
+
+Matrix Binary DOB
+										
+										
+1024	512	256	128	64	32	16	8	4	2	1
+
+1	1	1	1	0	1	1	1	1	1	0    =      1982
+										
+![image](https://user-images.githubusercontent.com/30531913/162103387-61ee275d-08e0-4098-8ae0-544da5f63535.png)
+
+
+
+
+MISP
+-----
+
+
+.data
+	      number1: .asciiz "\nIngrese el primer numero: "
+	      number2: .asciiz "\nIngrese el segundo numero: "
+	      result_message: .asciiz "\nEl resultado es: "
+
+  .text
+	      main:
+              li $v0, 4
+              la $a0, number1
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t0, $v0
+
+              li $v0, 4
+              la $a0, number2
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t1, $v0
+
+              li $v0, 1
+              move $a0, $t0
+              syscall
+
+              li $t1, 0
+              li $v0, 100
+ 
+              add $t1, $a0, $t1
+
+              li $v0, 4
+              la $a0 result_message
+              syscall
+
+              li $v0, 1
+              move $a0, $t0
+              syscall
+
+
+
+
