@@ -124,8 +124,8 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 
 ## Week challenges (Thursday)
 
-1.Remove All Exclamation Marks From The End Of Sentence exercise
-2.Vowel Remover exercise
-3.Rock Paper Scissors! exercise
-4.Persistent Bugger exercise
+1. Remove All Exclamation Marks From The End Of Sentence exercise
+2. Vowel Remover exercise
+3. Rock Paper Scissors! exercise
+4. Persistent Bugger exercise
 
