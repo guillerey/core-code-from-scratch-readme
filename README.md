@@ -4,14 +4,14 @@
 
 ## Week challenges (Tuesday):
 
-## 1. Interpreted And Compiled Programming Languages:
+### 1. Interpreted And Compiled Programming Languages:
  
-### Compiled Languages:
+#### Compiled Languages:
 
 This languages are converted directly into machine code that the processor can execute result in more
 faster and more efficient code. Need to be compilated every time when a change is needed.
 
-### Interpreted Languages:
+#### Interpreted Languages:
 
 This languages needs to be intepreted by a program to read and execute the code, is more slower than
 compiled languages but is cross-platform, easier to debug, and test.
@@ -39,9 +39,9 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 ### 1. Matrix Binary DOB
 										
 										
-1024	512	256	128	64	32	16	8	4	2	1
+1024    512    256      128      64     32      16      8       4       2       1
 
-1	1	1	1	0	1	1	1	1	1	0    =      1982
+  1      1      1        1        0      1       1      1       1       1       0    =      1982
 										
 ![image](https://user-images.githubusercontent.com/30531913/162103387-61ee275d-08e0-4098-8ae0-544da5f63535.png)
 
