@@ -1,8 +1,8 @@
 # core-code-from-scratch-readme
 
-1.
-Interpreted And Compiled Programming Languages:
-----------------------------------------------------
+
+1.   Interpreted And Compiled Programming Languages:
+     ----------------------------------------------------
 
 Compiled Languages:
 ---------------------
