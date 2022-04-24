@@ -24,14 +24,14 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 
 ### 3. Pseudocode currency converter
 
-- START
-- Currency <-- GET
-- Num <-- GET
-- ExchangeRate <-- 1 US$ = 0,0000220734 XBT
-- Currency * ExchangeRate
-- Result <-- ConversionRate
-- PRINT Result
-- END
+    START
+    Currency <-- GET
+    Num <-- GET
+    ExchangeRate <-- 1 US$ = 0,0000220734 XBT
+    Currency * ExchangeRate
+    Result <-- ConversionRate
+    PRINT Result
+    END
 
 
 ## Week challenges (Wednesday)
