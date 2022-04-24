@@ -100,10 +100,10 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 
 ## Week challenges (Monday)
 
-### 1. Follow the github course 
-### 2. Create an account in Codewars
-### 3. Read about: if...else
-### 4. Read about: for
-### 5. Read about: while
-### 6. Read about: functions
+1. Follow the github course        **Done**
+2. Create an account in Codewars   **Done**
+3. Read about: if...else           **Done**   
+4. Read about: for                 **Done**  
+5. Read about: while               **Done** 
+6. Read about: functions           **Done** 
 
