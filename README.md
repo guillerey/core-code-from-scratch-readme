@@ -94,3 +94,16 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
               move $a0, $t2
               syscall
 
+
+
+# Week 2:
+
+## Week challenges (Monday)
+
+### 1. Follow the github course 
+### 2. Create an account in Codewars
+### 3. Read about: if...else
+### 4. Read about: for
+### 5. Read about: while
+### 6. Read about: functions
+
