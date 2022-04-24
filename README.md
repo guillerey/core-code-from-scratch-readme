@@ -107,3 +107,25 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 5. Read about: while               **Done** 
 6. Read about: functions           **Done** 
 
+## Week challenges (Tuesday)
+
+1. Multiply exercise
+2. ASCII Total exercise
+3. Char From ASCII Value exercise
+4. Binary Addition exercise
+5. Student's Final Grade exercise
+
+## Week challenges (Wednesday) 
+
+1. Holiday VIII - Duty Free exercise
+2. Twice As Old exercise
+3. Valid Spacing exercise
+4. Fake Binary exercise
+
+## Week challenges (Thursday)
+
+1.Remove All Exclamation Marks From The End Of Sentence exercise
+2.Vowel Remover exercise
+3.Rock Paper Scissors! exercise
+4.Persistent Bugger exercise
+
