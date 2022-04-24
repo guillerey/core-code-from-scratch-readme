@@ -16,29 +16,27 @@ faster and more efficient code. Need to be compilated every time when a change i
 This languages needs to be intepreted by a program to read and execute the code, is more slower than
 compiled languages but is cross-platform, easier to debug, and test.
 
-## 2. Is Java compiled or interpreted, or both?
+### 2. Is Java compiled or interpreted, or both?
 
 A java program is first compiled into bytecode which JRE can understand. ByteCode is then interpreted
 by the JVM making it as interpreted language, so yes, Java is both, compiled and interpreted language.
 
 
-## 3. Pseudocode currency converter
--------------------------------
+### 3. Pseudocode currency converter
 
-'START
-Currency <-- GET
-Num <-- GET
-ExchangeRate <-- 1 US$ = 0,0000220734 XBT
-Currency * ExchangeRate
-Result <-- ConversionRate
-PRINT Result
-END'
+- START
+- Currency <-- GET
+- Num <-- GET
+- ExchangeRate <-- 1 US$ = 0,0000220734 XBT
+- Currency * ExchangeRate
+- Result <-- ConversionRate
+- PRINT Result
+- END
 
 
-Week challenges (Wednesday)
-----------------------------
+## Week challenges (Wednesday)
 
-Matrix Binary DOB
+### 1. Matrix Binary DOB
 										
 										
 1024	512	256	128	64	32	16	8	4	2	1
@@ -50,15 +48,15 @@ Matrix Binary DOB
 
 
 
-MISP
-------
+### 2. MISP
 
-.data
+
+    .data
 	      number1: .asciiz "\nIngrese el primer numero: "
 	      number2: .asciiz "\nIngrese el segundo numero: "
 	      result_message: .asciiz "\nEl resultado es: "
 
-  .text
+    .text
 	      main:
               li $v0, 4
               la $a0, number1
@@ -82,7 +80,7 @@ MISP
               move $a0, $t0
               syscall
 
-             main:
+              main:
               li $t1, 
               li $v0, 
 
