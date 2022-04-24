@@ -95,6 +95,14 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
               syscall
 
 
+## Week challenges (Thursday) 
+
+1. Print special numbers exercise
+2. Bad Code exercise
+3. Bad Code 2 exercise
+4. Follow Git Course
+
+
 
 # Week 2:
 
