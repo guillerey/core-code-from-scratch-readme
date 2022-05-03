@@ -100,8 +100,8 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 1. Print special numbers exercise
 
 	
-	for (let i = 0; i <= 101; i += 2)
-		console.log(i);
+		for (let i = 0; i <= 101; i += 2)
+			console.log(i);
 
 
 2. Bad Code exercise
