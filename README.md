@@ -98,13 +98,19 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 ## Week challenges (Thursday) 
 
 1. Print special numbers exercise
+
+	
+	for (let i = 0; i <= 101; i += 2)
+		console.log(i);
+
+
 2. Bad Code exercise
 3. Bad Code 2 exercise
 4. Follow Git Course
 
 \
 \
-\
+
 
 
 # Week 2:
@@ -142,7 +148,7 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 
 \
 \
-\
+
 
 
 # Week 3:
