@@ -109,8 +109,6 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 4. Follow Git Course
 
 
-\
-\
 
 
 
@@ -171,8 +169,6 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 3. Rock Paper Scissors! exercise
 4. Persistent Bugger exercise
 
-
-\
 
 
 
