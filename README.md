@@ -102,11 +102,9 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 3. Bad Code 2 exercise
 4. Follow Git Course
 
-
-/
-/
-/
-
+\
+\
+\
 
 
 # Week 2:
@@ -142,9 +140,9 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 3. Rock Paper Scissors! exercise
 4. Persistent Bugger exercise
 
-/
-/
-/
+\
+\
+\
 
 
 # Week 3:
