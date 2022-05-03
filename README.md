@@ -140,3 +140,32 @@ by the JVM making it as interpreted language, so yes, Java is both, compiled and
 3. Rock Paper Scissors! exercise
 4. Persistent Bugger exercise
 
+
+
+# Week 3:
+
+## Week challenges (Monday)
+
+1. Who Likes It? exercise
+2. Bit Counting exercise
+3. Your Order, Please exercise
+
+## Week challenges (Tuesday)
+
+1. Simple Pig Latin exercise
+2. Counting Duplicates exercise
+3. Decode The Morse Code exercise
+
+## Week challenges (Wednesday)
+1. Valid Parentheses exercise
+2. Convert String To Camel Case exercise
+3. Unique In Order exercise
+
+## Week challenges (Thursday)
+
+1. Fold An Array exercise
+2. Encrypt This! exercise
+3. Complete your 1st Core Challenge
+
+
+
